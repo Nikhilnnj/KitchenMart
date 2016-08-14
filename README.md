@@ -1,3 +1,2 @@
-Repo for Smart Containers
+Repo for KitchenMart
 
-Download node.js and run npm install in the directory. Download mongodb and set up as well.
